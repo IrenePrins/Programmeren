@@ -60,7 +60,9 @@
 
 ### Composition
 
-    Composition is de relatie die verschillende classen met elkaar hebben. Zo heeft in mijn game de class game een class startmenu, gameover en level. Class level heeft dus een class monkey en een class banana. Je geeft de relaties aan met has a:
+    Composition is de relatie die verschillende classen met elkaar hebben. Zo heeft in mijn game de
+    class game een class startmenu, gameover en level. Class level heeft dus een class monkey en een
+    class banana. Je geeft de relaties aan met has a:
 
 *   Game has a startmenu. 
 *   Game has a level.
@@ -80,7 +82,8 @@
 
         "De game gebruikt een externe library uit de lijst in deze modulewijzer."
     
-    Ik heb gekozen voor howler.js. Ik heb online een muziekje gevonden die ik heel het spel laat horen. De code voor de library is te vinden in howler.js.
+    Ik heb gekozen voor howler.js. Ik heb online een muziekje gevonden die ik heel het spel laat horen.
+    De code voor de library is te vinden in howler.js.
 
    ## Review
 
