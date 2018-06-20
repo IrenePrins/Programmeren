@@ -8,7 +8,10 @@
 
     * Encapsulation
     * Inheritance
-    * idk
+    * Composition
+    
+    Dit is de link naar de game:
+  [a link]https://ireneprins.github.io/
 
    ### Encapsulation
 
