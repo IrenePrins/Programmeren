@@ -21,19 +21,18 @@
 
      1. Het krijgen van leesrechten dat ziet er zo uit:
 
-        ```typescript
+    typescript
         public getX() : number {
 		Return this.x
         } 
-        ```
+        
      2. Het krijgen van schrijfrechten:
 
-     ```typescript
+    typescript
         Public setX(x:number) : void {
         This.x=x
         } 
 
-     ```
      Ik heb encapsulation in mijn game gedaan door mijn variabele privated te maken. Zoals te zien is in mijn klassendiagram heb ik in mijn parentclass de variabelen protected gemaakt. Hierdoor kunnen ze alleen via de childclasses worden benaderd.  De childclasses zijn Monkey en Banana.
      Sommige functies zoals update moeten benaderd kunnen worden vanuit meerdere classen die heb ik public gemaakt.
      Het is beter om zoveel mogelijk op private te houden. 
